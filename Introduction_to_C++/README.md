@@ -1,6 +1,14 @@
 # CURSO DE C++
+***
 
-## Content
+## Proyect
+
+
+
+
+
+***
+## Content Lessons
 
 1. Introducción a C++
 
@@ -30,7 +38,7 @@
 6. Loops y arreglos
 
 7. Lectura de Archivos
-
+<!--
   * CHALLENGE:
 
   Nuestro siguiente reto es marcar en el mapa la posición del jugador, la manera de hacer esto es poniendo un número que represente donde va a aparecer al inicio, interpretarlo en la lectura del archivo y asignarlo a la posición del jugador para que funcione correctamente.
@@ -47,6 +55,7 @@
       * Pasarle esos datos al jugador ya sea directamente con una referencia o leyendo los valores en variables de la clase.
 
       * Dibujar el mapa.
+-->
 
 8. Programación Orientada a Objetos
 
